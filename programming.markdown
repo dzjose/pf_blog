@@ -7,6 +7,16 @@ permalink: /programming/
 # Factorials
 
 <https://github.com/dzjose/project/blob/main/Programming>
+{% highlight ruby %} #Python code to compute factorials
+
+number = eval(input("Enter a non-negative intiger to take the factorial of: "))
+
+product = 1
+for i in range(number):
+	product = product * (i+1)
+    
+print ("The factorial is : ",end="")
+print (product) {% endhighlight %} 
 
 # Recursions
 
