@@ -30,7 +30,7 @@ combinatorial proof. The first step in creating a counting problem that can be a
 step is explaining why the answer is one way. The last step is proving why the answer is the other way. 
 
 In the lattest chapters, I have learned about sequences and mathematical induction. A sequence is an ordered list
-of numbers, keep in mind that the order of which the numbers come in in important. To refer to the entire sequence
+of numbers, keep in mind that the order of which the numbers come in is important. To refer to the entire sequence
 we use a_n, where n is called an indices, which refers to n number in the sequence. We can use closed formulas for
 a sequence in order to find a_n. Additionally, a sequence can be arithmitic or geometric. An arithmitic sequence 
 has a constant difference in its sequence, while a geometric sequence has a constant ratio between successive terms.
