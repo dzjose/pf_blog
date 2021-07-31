@@ -6,9 +6,15 @@ permalink: /programming/
 ---
 # Factorials
 
-[https://github.com/dzjose/project/blob/main/Programming]
+<https://github.com/dzjose/project/blob/main/Programming>
 
-![]({{ page.image }})
+# Recurions
+
+<https://github.com/dzjose/project/blob/main/Programming%20Simple%20Recursions>
+
+
+
+
 
 
 
