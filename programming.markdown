@@ -6,7 +6,7 @@ permalink: /programming/
 ---
 # Factorials
 
-`https://github.com/dzjose/project/blob/main/Programming`
+<https://github.com/dzjose/project/blob/main/Programming>
 
 ![]({{ page.image }})
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Worked Problems
-permalink: /workedproblems/
+title: Worked Problem 1
+permalink: /workedproblem1/
 
 ---
 
