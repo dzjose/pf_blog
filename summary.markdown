@@ -27,7 +27,22 @@ for k from n total objects.
 
 Lastly, combinatorial proofs are explanatory proofs that prove a binomial identity. There are three steps in a 
 combinatorial proof. The first step in creating a counting problem that can be answered in two ways. The second
-step is explaining why the answer is one way. The last step is proving why the answer is the other way.      
+step is explaining why the answer is one way. The last step is proving why the answer is the other way. 
+
+In the lattest chapters, I have learned about sequences and mathematical induction. A sequence is an ordered list
+of numbers, keep in mind that the order of which the numbers come in in important. To refer to the entire sequence
+we use a_n, where n is called an indices, which refers to n number in the sequence. We can use closed formulas for
+a sequence in order to find a_n. Additionally, a sequence can be arithmitic or geometric. An arithmitic sequence 
+has a constant difference in its sequence, while a geometric sequence has a constant ratio between successive terms.
+
+Furthermore, an arithmitic sequence has a recursive definition of a_n = a_n-1 + d with a_0 = a and a closed formula
+of a_n = a+dn. The geometric sequence has a recursive definition of a_n = ra_n-1 with a_0 = a and a closed formula
+of a_n = a*r^n. Recursive relations can also be solved by using the characteristic equation and finding the
+characteristic roots.
+
+Lastly, we learned about Mathematical induction being a proof technique or a style of argument that can be used
+to convince ourselves and others that a mathematical statement is always true. To start an inductive proof, you
+say the statement that you want to prove. You then have to prove two facts, a base case and an inductive case.
 
 
 

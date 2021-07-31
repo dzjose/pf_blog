@@ -10,7 +10,7 @@ with initial terms a_0=9 and a_1=12.`
 
 ---
 
-The underscore _ symbol is a symbol for a subscript.
+`The underscore _ symbol is a symbol for a subscript.`
 For starters, given a recurrence relation, you want to make it equal to 0. For example a_n + αa_n−1 + βa_n−2 = 0.
 You then turn the recursive relation into a polynomial with the characteristic equation `x^2+ax+b`.
 
