@@ -8,7 +8,7 @@ permalink: /programming/
 
 <https://github.com/dzjose/project/blob/main/Programming>
 
-# Recurions
+# Recursions
 
 <https://github.com/dzjose/project/blob/main/Programming%20Simple%20Recursions>
 
