@@ -44,6 +44,13 @@ Lastly, we learned about Mathematical induction being a proof technique or a sty
 to convince ourselves and others that a mathematical statement is always true. To start an inductive proof, you
 say the statement that you want to prove. You then have to prove two facts, a base case and an inductive case.
 
+In the final chapter of this course, I have learned about proofs. There are many types of mathemtaical proofs
+that aim to prove that something is valid or not. First, direct proof is the simplest style of proof that often
+requires to prove that something is a systematic explanation of what everything means. This type of proof is best 
+when working with implications. The next type of proof is proof by contrapositive. This proof gives a direct proof 
+of the contrapositive of an implication. In other words, the contrapostive is equivalent to the original implication.
+The other types of proofs are proof by contradiction, proof by counter, and proof by cases. Lastly, when writing 
+proofs it is important that your argument implies the truth of the statement. 
 
 
 
