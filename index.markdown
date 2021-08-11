@@ -7,11 +7,11 @@ layout: home
 
 **Relevant Coursework**
 
-Combinatorics
+* Combinatorics
 
-Sequences
+* Sequences
 
-Sybolic Logic
+* Sybolic Logic
 
-Graph Theory
+* Graph Theory
 
