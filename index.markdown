@@ -5,14 +5,5 @@
 layout: home
 ---
 
-# Relevant Coursework
-
-Combinatorics
-
-Sequences
-
-Symbolic Logic
-
-Graph Theory
 
 
